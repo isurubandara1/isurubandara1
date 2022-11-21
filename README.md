@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/111081151/203117722-1a689bec-4635-4d8e-bda7-f004e1849a4d.png)
+
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
 <h3 align="center">A passionate App development</h3>
 
