@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/111081151/203117722-1a689bec-4635-4d8e-bda7-f004e1849a4d.png)
+![image](https://cdn-images-1.medium.com/fit/t/1600/480/1*2IBk-ItbED1-54IMehR5cA.png)
 
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
-<h3 align="center">A passionate App development</h3>
+<h3 align="center">Flutter and React-native Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurubandara1&label=Profile%20views&color=0e75b6&style=flat" alt="isurubandara1" /> </p>
 
