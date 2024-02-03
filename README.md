@@ -1,4 +1,4 @@
-![image](https://cdn-images-1.medium.com/fit/t/1600/480/1*2IBk-ItbED1-54IMehR5cA.png)
+![image](https://images.prismic.io/createthrive/ccd5ec92-4681-4dc9-924f-e3be3a5ac8e8_firebase-app-check-flutter.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1200&h=350)
 
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
 <h3 align="center">Flutter App developer</h3>
