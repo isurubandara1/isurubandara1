@@ -1,7 +1,7 @@
 ![image](https://images.prismic.io/createthrive/ccd5ec92-4681-4dc9-924f-e3be3a5ac8e8_firebase-app-check-flutter.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1200&h=350)
 
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
-<h3 align="center">Flutter App developer</h3>
+<h3 align="center">Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurubandara1&label=Profile%20views&color=0e75b6&style=flat" alt="isurubandara1" /> </p>
 
