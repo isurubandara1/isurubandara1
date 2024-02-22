@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **App development**
+- 🌱 I’m  **Flutter Mobile App Developer**
 
 - 📫 How to reach me **isurumbandara@gmail.com**
 
