@@ -31,7 +31,7 @@
 </div>
 
 <div style="text-align: center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 30%; box-sizing: border-box; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 50%; box-sizing: border-box; margin: 0 auto;">
 </div>
 
 
