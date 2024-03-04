@@ -25,7 +25,14 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="80" height="50"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p><br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=isurubandara1&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style=" box-sizing: border-box;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurubandara1&theme=radical&hide_border=false" alt="GitHub Streak" style=" box-sizing: border-box;">
+</div>
+
+<div style="text-align: center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 30%; box-sizing: border-box; margin: 0 auto;">
+</div>
+
+
 
