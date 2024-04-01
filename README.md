@@ -27,10 +27,10 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style=" box-sizing: border-box;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurubandara1&theme=radical&hide_border=false" alt="GitHub Streak" style=" box-sizing: border-box;">
-</div>
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurubandara1&theme=radical&hide_border=false" alt="GitHub Streak" style=" box-sizing: border-box;">
+</div> --!>
 
-<div style="text-align: center">
+  <!-- <div style="text-align: center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 50%; box-sizing: border-box; margin: 0 auto;">
 </div>
 
