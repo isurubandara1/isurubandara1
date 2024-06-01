@@ -1,4 +1,5 @@
-![image](https://images.prismic.io/createthrive/ccd5ec92-4681-4dc9-924f-e3be3a5ac8e8_firebase-app-check-flutter.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&w=1200&h=350)
+
+![pr](https://github.com/isurubandara1/isurubandara1/assets/111081151/5d40d1cf-a354-4d13-96c1-27f55b48abb2)
 
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
 <h3 align="center">Mobile App developer</h3>
