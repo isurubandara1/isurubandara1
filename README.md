@@ -18,8 +18,6 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
  
 ![](https://github-profile-trophy.vercel.app/?username=isurubandara1&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
-
 <h3>📊 GitHub Trophies:</h3>
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="box-sizing: border-box; width: 46%;">
