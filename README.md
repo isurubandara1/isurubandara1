@@ -18,17 +18,7 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
  
 ![](https://github-profile-trophy.vercel.app/?username=isurubandara1&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-- 🌱 I’m  **Mobile App Developer**
-
-- 📫 How to reach me **isurumbandara@gmail.com**
-
-- 🎓 I’m currently reading my BSc(Hons) in Information Systems at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
-
-<p align="left">
-</p><br>
+<br>
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
