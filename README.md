@@ -32,8 +32,8 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="box-sizing: border-box; width: 42%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurubandara1&theme=radical&hide_border=false" alt="GitHub Streak" style="box-sizing: border-box; width: 46%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=isurubandara1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="box-sizing: border-box; width: 46%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurubandara1&theme=radical&hide_border=false" alt="GitHub Streak" style="box-sizing: border-box; width: 50%;">
     
 </div>
 
