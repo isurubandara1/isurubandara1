@@ -2,12 +2,13 @@
 ![pr](https://github.com/isurubandara1/isurubandara1/assets/111081151/5d40d1cf-a354-4d13-96c1-27f55b48abb2)
 
 <h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
-<h3 align="center">Mobile App developer</h3>
+<h3 align="center">𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurubandara1&label=Profile%20views&color=0e75b6&style=flat" alt="isurubandara1" /> </p>
 <h3>💫 About Me:</h3>
 
-I am a mobile app developer specializing in Flutter and React Native, with experience in connecting back-end services using Firebase and Spring Boot. Additionally, I build websites as a front-end developer using React. My diverse skill set allows me to create seamless, high-performance applications across both mobile and web platforms.<div style="text-align: center;">
+I am a mobile app developer specializing in Flutter and React Native, with experience in connecting back-end services using Firebase and Spring Boot. Additionally, I build websites as a front-end developer using React. My diverse skill set allows me to create seamless, high-performance applications across both mobile and web platforms.
+
   <a href="https://www.linkedin.com/in/isuru-bandara-b51aab244" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="width: 150px; marginRight:40px;">
   </a>
