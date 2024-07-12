@@ -24,7 +24,7 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
     <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow Icon" width="35" style="margin-right: 8px;"/>
     <strong>Stack Overflow:</strong> <a href="https://stackoverflow.com/users/16578521/isuru-bandara?tab=profile" target="_blank" style="margin-left: 8px;">users/16578521/isuru-bandara</a>
   </span>
-</p><br>
+</p>
 
  <h3>🏆 GitHub Trophies:</h3>
  
