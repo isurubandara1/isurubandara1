@@ -12,20 +12,17 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
 
 <p>
   <span style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email Icon" width="30" style="margin-right: 8px;"/>
     <strong>Email:</strong> <a href="mailto:isurumbandara@gmail.com" style="margin-left: 8px;">isurumbandara@gmail.com</a>
   </span>
-  <br>
+  <br><br>
   <span style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Icon" width="30" style="margin-right: 8px;"/>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/isuru-bandara-b51aab244" target="_blank" style="margin-left: 8px;">in/isuru-bandara-b51aab244</a>
   </span>
-  <br>
+  <br><br>
   <span style="display: flex; align-items: center;">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow Icon" width="35" style="margin-right: 8px;"/>
     <strong>Stack Overflow:</strong> <a href="https://stackoverflow.com/users/16578521/isuru-bandara?tab=profile" target="_blank" style="margin-left: 8px;">users/16578521/isuru-bandara</a>
   </span>
-</p>
+</p><br>
 
  <h3>🏆 GitHub Trophies:</h3>
  
