@@ -29,7 +29,7 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
 
  <h3>🏆 GitHub Trophies:</h3>
  
-![](https://github-profile-trophy.vercel.app/?username=isurubandara1&theme=algolia&no-frame=false&no-bg=false&margin-w=4) </br></br>
+![](https://github-profile-trophy.vercel.app/?username=isurubandara1&theme=algolia&no-frame=false&no-bg=false&margin-w=6) </br></br>
 
   
 <h3>🔥 Tech Stack:</h3>
