@@ -41,7 +41,7 @@ I am a mobile app developer specializing in Flutter and React Native, with exper
 </div>
 
  <div align=center>
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurubandara1&layout=compact&langs_count=10&show_icons=true&theme=algolia" />
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurubandara1&layout=compact&langs_count=6&show_icons=true&theme=algolia" />
 </div>
 
 
