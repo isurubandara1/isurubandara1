@@ -1,7 +1,7 @@
 
 ![pr](https://github.com/isurubandara1/isurubandara1/assets/111081151/5d40d1cf-a354-4d13-96c1-27f55b48abb2)
 
-<h1 align="center">Hello 👋, I'm Isuru Bandara</h1>
+<h1 align="center">Hi 👋, I'm Isuru Bandara</h1>
 <h3 align="center">𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurubandara1&label=Profile%20views&color=0e75b6&style=flat" alt="isurubandara1" /> </p>
