@@ -1,5 +1,5 @@
 
-![pr](https://github.com/isurubandara1/isurubandara1/assets/111081151/5d40d1cf-a354-4d13-96c1-27f55b48abb2)
+![pr](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 
 <h1 align="center">Hello 👋, I'm Isuru Bandara</h1>
 <h3 align="center">𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>   
