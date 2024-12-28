@@ -1,5 +1,5 @@
 
-![pr](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+![pr](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg)
 
 <h1 align="center">Hello 👋, I'm Isuru Bandara</h1>
 <h3 align="center">𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>   
