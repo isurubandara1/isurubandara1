@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurubandara1&label=Profile%20views&color=0e75b6&style=flat" alt="isurubandara1" /> </p>
 <h3>💫 About Me:</h3>
 
-I am a mobile app developer specializing in Flutter and React Native, with experience in connecting back-end services using Firebase, Laravel and Spring Boot. Additionally, I build websites as a front-end developer. My diverse skill set allows to create seamless, high-performance applications across both mobile and web platforms.
+I am a mobile app developer specializing in Flutter with experience in connecting back-end services using Firebase, Laravel and Spring Boot. Additionally, I build websites as a front-end developer. My diverse skill set allows to create seamless, high-performance applications across both mobile and web platforms.
 
 <p>
   <span style="display: flex; align-items: center;">
